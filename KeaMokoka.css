@@ -18,9 +18,23 @@ body{
     justify-content: end;
 }
 
-.About, .Contact, .Blog, .Projects {
+.About, .Contact, .Blog, .Projects{
     margin: 10px;
 }
+/* space */ 
+.main-about{
+    background-color: aqua;
+    /* add a max contact property */ 
+}
+.main-contact{background-color: blue;
+}
+.main-blog{
+    background-color: blueviolet;
+}
+.main-projects{
+    background-color: chartreuse;
+}
+
 
 
 #body{

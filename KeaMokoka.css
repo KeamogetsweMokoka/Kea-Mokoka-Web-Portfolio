@@ -3,7 +3,7 @@ body{
 }
 
 #header{
-
+    margin-bottom: 25px;  /* find a way to make this code less repetative */
 }
 
 .main-header{
@@ -14,14 +14,20 @@ body{
 }
 .home-tabs{
     display: flex;
-    padding: 15px;
+    margin: 15px;
+    justify-content: end;
+}
+
+.About, .Contact, .Blog, .Projects {
+    margin: 10px;
 }
 
 
 #body{
-
+    margin-bottom: 25px; /* find a way to make this code less repetative */
 }
-#footer{
 
+#footer{
+    margin-bottom: 25px; /* find a way to make this code less repetative */
 }
 

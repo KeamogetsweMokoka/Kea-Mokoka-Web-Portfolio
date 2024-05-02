@@ -1,0 +1,27 @@
+body{
+    background-color:  #F5F5F5;
+}
+
+#header{
+
+}
+
+.main-header{
+    background-color: black;
+    border-radius: 25px;
+    color: white; 
+    text-align: center;
+}
+.home-tabs{
+    display: flex;
+    padding: 15px;
+}
+
+
+#body{
+
+}
+#footer{
+
+}
+

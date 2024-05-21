@@ -21,6 +21,10 @@ body{
 .About, .Contact, .Blog, .Projects{
     margin: 10px;
 }
+.Kea{
+    margin: 10px;
+    text-align: left;
+}
 /* space */ 
 .main-about{
     background-color: aqua;  /* change the colors to images or something better */

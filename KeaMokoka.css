@@ -23,7 +23,7 @@ body{
 }
 /* space */ 
 .main-about{
-    background-color: aqua;
+    background-color: aqua;  /* change the colors to images or something better */
     /* add a max contact property */ 
 }
 .main-contact{background-color: blue;
@@ -44,4 +44,3 @@ body{
 #footer{
     margin-bottom: 25px; /* find a way to make this code less repetative */
 }
-

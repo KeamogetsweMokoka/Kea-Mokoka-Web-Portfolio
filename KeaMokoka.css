@@ -1,50 +1,10 @@
-body{
-    background-color:  #F5F5F5;
-}
-
-#header{
-    margin-bottom: 25px;  /* find a way to make this code less repetative */
-}
-
-.main-header{
-    background-color: black;
-    border-radius: 25px;
-    color: white; 
-    text-align: center;
-}
-.home-tabs{
+.header-left{
+    background-color: aliceblue;
+    width: 100px; 
+    height: 100px;
     display: flex;
-    margin: 15px;
-    justify-content: end;
+    
 }
-
-.About, .Contact, .Blog, .Projects{
-    margin: 10px;
-}
-.Kea{
-    margin: 10px;
-    text-align: left;
-}
-/* space */ 
-.main-about{
-    background-color: aqua;  /* change the colors to images or something better */
-    /* add a max contact property */ 
-}
-.main-contact{background-color: blue;
-}
-.main-blog{
-    background-color: blueviolet;
-}
-.main-projects{
-    background-color: chartreuse;
-}
-
-
-
-#body{
-    margin-bottom: 25px; /* find a way to make this code less repetative */
-}
-
-#footer{
-    margin-bottom: 25px; /* find a way to make this code less repetative */
+.header-right{
+    text-align: right;
 }

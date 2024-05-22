@@ -32,3 +32,25 @@
 .project{
     background-color: yellow;
 }
+
+/* next section */
+
+#first-section{
+    background-color: aquamarine;
+
+    height: max-content; 
+}
+h1{
+    background-color: burlywood;
+    width: 500px;
+}
+.second-heading{   /* make this section move under the main heading */
+    display: flex;
+    background-color: brown;
+    width: 500px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
